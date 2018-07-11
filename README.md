@@ -6,7 +6,7 @@ The major contributors of this repository include Shuyang Gu, Congliang Chen, [J
 
 **Deep Feature Reshuffle** is a technique to using reshuffling deep features of style image for arbitrary style transfer. It connects both global and local style constrain respectively used by most parametric and non-parametric neural style transfer methods.
 
-![image]()
+<img src='image/introduction.jpg' width='600'>
 
 
 ## Disclaimer
